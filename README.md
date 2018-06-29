@@ -1,2 +1,11 @@
 # Fkeeping
-You and my asset banker will help you sort out the bills in the most professional way possible, so that every expense can be traced! The interface is simple and generous, with clear classification and simple operation, so that you can easily complete the accounting within seconds.
+Want to clearly know the consumption, you want to plan clearly, want to predict the future.
+Small Ping Housekeeper gives you the possibility to do what you want.
+
+Features
+- Quick accounting
+- Smart statistics
+- Bill inquiries
+- Data Security
+
+Simple page, clear format, so you better sort out their own bills.
